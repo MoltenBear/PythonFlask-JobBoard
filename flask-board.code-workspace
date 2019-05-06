@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.venvPath": "~/.virtualenvs",
+		"python.pythonPath": "~/.virtualenvs/flask-board/bin/python",
+		"python.linting.pylintPath": "~/.virtualenvs/flask-board/bin/pylint"
+	}
+}
